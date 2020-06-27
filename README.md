@@ -2,7 +2,7 @@
 This is the code for crawling code reviews in our paper: "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks"
 
 # How to Run
-## Crawl Code
+## Crawl Code Reviews
 1. Set up the crawling path in `config.py`
 2. Just run `crawl.py`
 ## Classifier code
