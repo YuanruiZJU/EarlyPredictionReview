@@ -2,11 +2,10 @@
 This is the code for crawling gerrit code reviews and running experiments in our paper: "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks"
 
 # How to Run
-## Crawl Code Reviews
 1. Set up the crawling path in `crawl/config.py`
 2. Just run `crawl/crawl.py`
-## Classifier code
-You need to import the java code in `code/` to eclipse and run.
+3. Feature extractor: you need to import the code to Pycharm and run extractors in `features`, `baseline_features` and `icse_paper_features`.
+4. Classifier code: you need to import the java code in `code/` to eclipse and run.
 
 # Citation
 If you find our code useful, please cite:
