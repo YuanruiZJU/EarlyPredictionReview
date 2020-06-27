@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/yuanruifan/Desktop/java_code/CodeReivewClassification/javacsv.jar"/>
+	<classpathentry kind="lib" path="/Users/yuanruifan/Desktop/java_code/CodeReivewClassification/SentiStrength.jar"/>
+	<classpathentry kind="lib" path="/Users/yuanruifan/Desktop/java_code/CodeReivewClassification/snowball-20051019.jar"/>
+	<classpathentry kind="lib" path="/Users/yuanruifan/Desktop/java_code/CodeReivewClassification/snowball-stemmers-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/yuanruifan/Desktop/java_code/CodeReivewClassification/weka.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
