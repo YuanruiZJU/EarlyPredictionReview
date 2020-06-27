@@ -1,5 +1,5 @@
 # Eearly Prediction of Merged Code Changes to Prioritize Reviewing Tasks
-This is the code for crawling code reviews in our paper: "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks"
+This is the code for crawling gerrit code reviews and running experiments in our paper: "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks"
 
 # How to Run
 ## Crawl Code Reviews
