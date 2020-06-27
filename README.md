@@ -1,9 +1,12 @@
-# GerritCrawler
-This is the code for crawling code reviews in our paper: "Early Prediction of Merged Code Changes for Prioritizing Reviewing Tasks"
+# Eearly Prediction of Merged Code Changes to Prioritize Reviewing Tasks
+This is the code for crawling code reviews in our paper: "Early Prediction of Merged Code Changes to Prioritize Reviewing Tasks"
 
 # How to Run
+## Crawl Code Reviews
 1. Set up the crawling path in `config.py`
 2. Just run `crawl.py`
+## Classifier code
+You need to import the java code in `code/` to eclipse and run.
 
 # Citation
 If you find our code useful, please cite:
