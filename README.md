@@ -3,8 +3,8 @@ This is the code for crawling gerrit code reviews and running experiments in our
 
 # How to Run
 ## Crawl Code Reviews
-1. Set up the crawling path in `config.py`
-2. Just run `crawl.py`
+1. Set up the crawling path in `crawl/config.py`
+2. Just run `crawl/crawl.py`
 ## Classifier code
 You need to import the java code in `code/` to eclipse and run.
 
